@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mosquito-God-1564
 - 👀 I’m interested in coding, making games, drawing.
-- 🌱 I’m currently learning GML
+- 🌱 I’m currently learning GML and python
